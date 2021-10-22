@@ -1,0 +1,29 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+.navbar{
+    background-color: rgb(20, 20, 20);
+}
+
+.itemCont{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.logo {
+    color: white;
+    margin: 8px 28px;
+    padding: 7px 0px;
+    font-size: 20px;
+}
+
+.items{
+    /* background-color: yellow; */
+    color: white;
+    margin: 8px 16px;
+    padding: 7px 0px;
+    font-size: 20px;
+}
